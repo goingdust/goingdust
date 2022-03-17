@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-## Hullo 👋, I'm Dusty Luck ✨
+## Hi there 👋, I'm **Dusty Luck** ✨
 
 ### A junior full stack developer raring to build everything 👩‍💻
 
-Hi! My name's **Dusty Luck** and I am a junior developer who started learning in early 2021 after building my PC. This little hobby soon became a career change and prompted me to enroll in the Lighthouse Labs Web Development Bootcamp. Coding's power of seemingly endless building possibilities has me excited to realize all the ideas percolating around in my head.
+I started dabbling in web development in early 2021 after building my PC. This little hobby soon became a career change and prompted me to enroll in the Lighthouse Labs Web Development Bootcamp. Coding's power of seemingly endless building possibilities has me excited to realize all the ideas percolating around in my head.
 
 - 🔭 I’m currently working on **Custom web framework tutorial**
 - 🌱 I’m currently learning **TypeScript**
