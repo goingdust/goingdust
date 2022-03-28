@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 I started dabbling in web development in early 2021 after building my PC. This little hobby soon became a career change and prompted me to enroll in the Lighthouse Labs Web Development Bootcamp. Coding's power of seemingly endless building possibilities has me excited to realize all the ideas percolating around in my head.
 
 - 🔭 I’m currently working on **Custom web framework tutorial**
-- 🌱 I’m currently learning **Angular, Web Accessibility**
+- 🌱 I’m currently learning **Angular, WCAG 2.0**
 - 💬 Ask me about **Next.js, hyperpop, or reality tv**
 - 📫 How to reach me: **dustinluck@gmail.com**
 - 😄 Pronouns: **they/them**
