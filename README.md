@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### Front end developer raring to create satisfying web experiences 👩‍💻
 
-I started dabbling in web dev in early 2021 after building my PC. What was a little hobby soon became a career change and pushed me to enroll in Lighthouse Labs' Web Development Bootcamp. Coding's allure of seemingly-endless building possibilities keeps me learning and working to realize all the ideas percolating around my head.
+I started dabbling in web dev in early 2021 after building my PC. What started as a little hobby soon became a career change and pushed me to enroll in Lighthouse Labs' Web Development Bootcamp. Coding's allure of seemingly-endless building possibilities keeps me learning and working to realize all the ideas percolating around my head.
 
 - 🔭 I’m currently working on: **My personal site**
 - 🌱 I’m currently learning: **SolidJS, WCAG**
